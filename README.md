@@ -55,5 +55,3 @@ O jogo salva automaticamente o progresso. Se o jogo for interrompido, ao iniciar
 Desenvolvido para fins didáticos.
 
 ---
-
-Qualquer dúvida, consulte o código-fonte ou abra uma issue!
